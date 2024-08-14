@@ -1,5 +1,7 @@
-#👨🏻‍💻SARTHAK TIWARI
+###👨🏻‍💻SARTHAK TIWARI
+
 aka pagal sarthak
+
 **`Code Artisan (Developer/Video Editor/Anime Watcher)`**
 
 Hi, I'm Sarthak! Coding is my passion, and I love bringing ideas to life through code. When I'm not deep in development, you'll find me watching anime, where I draw inspiration and unwind.
@@ -23,7 +25,7 @@ Hi, I'm Sarthak! Coding is my passion, and I love bringing ideas to life through
 
 ---
 
-#👨🏻‍💻 About Me:
+###👨🏻‍💻 About Me:
 
 ---
 
